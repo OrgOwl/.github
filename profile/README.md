@@ -2,7 +2,7 @@
 
 ### Write your ideas, make changes to the repositories, any support for our project is awesome! :sparkles:
 
-<img src="https://raw.githubusercontent.com/OrgOwl/.github/main/profile/img/0.jpg" />
+<img src="https://raw.githubusercontent.com/OrgOwl/.github/main/profile/img/preloader.svg" />
 <table style="width: 100%" width="100%" height="46%" align="center" border="4" rules="all" cellpadding="0" cellspacing="0">
   <tbody>
     <tr align="center">

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="800" height="20" viewBox="0 0 800 20">
+
+  <defs>
+    <linearGradient id="myGradient">
+      <stop offset="0%" stop-color="#00FFFF" />
+      <stop offset="9.09%" stop-color="#0080FF" />
+      <stop offset="18.18%" stop-color="#0000FF" />
+      <stop offset="27.27%" stop-color="#8000FF" />
+      <stop offset="36.36%" stop-color="#FF00FF" />
+      <stop offset="45.45%" stop-color="#FF0080" />
+      <stop offset="54.54%" stop-color="#FF0000" />
+      <stop offset="63.63%" stop-color="#FF8000" />
+      <stop offset="72.72%" stop-color="#FFFF00" />
+      <stop offset="81.81%" stop-color="#80FF00" />
+      <stop offset="90.9%" stop-color="#00FF00" />
+      <stop offset="100%" stop-color="#00FF80" />
+    </linearGradient>
+  </defs>
+
+    <g>
+        <rect cx="0" cy="0" x="-800" y="0" width="800" height="20" fill="url(#myGradient)"/>
+        <rect cx="0" cy="0" x="0" y="0" width="800" height="20" fill="url(#myGradient)"/>
+        <animateTransform attributeType="xml" attributeName="transform" type="translate" values="0; 800" dur="1s" repeatCount="indefinite"/>
+    </g>
+</svg>

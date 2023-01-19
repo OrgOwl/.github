@@ -1,6 +1,6 @@
 ## :owl: Hi and you are welcome.
 
-### Write your ideas, make changes to the repositories, any support for our project is awesome! <img width="80px" src="https://raw.githubusercontent.com/OrgOwl/.github/main/profile/img/nyancat.svg" />
+### Write your ideas, make changes to the repositories, any support for our project is awesome! <img src="https://raw.githubusercontent.com/OrgOwl/.github/main/profile/img/nyan-cat.svg" />
 
 <img src="https://raw.githubusercontent.com/OrgOwl/.github/main/profile/img/preloader.svg" />
 <div>

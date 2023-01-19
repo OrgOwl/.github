@@ -3,7 +3,7 @@
 ### Write your ideas, make changes to the repositories, any support for our project is awesome! :sparkles:
 
 <img src="https://raw.githubusercontent.com/OrgOwl/.github/main/profile/img/preloader.svg" />
-<div style="background-color: var(--color-canvas-default);">
+<div class="markdown-body">
   <a href="https://github.com/OrgOwl/ffmpeg-bat">
     <img hspace="0" height="100px" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=OrgOwl&repo=ffmpeg-bat&theme=gruvbox" />
   </a>
